@@ -3,8 +3,7 @@
 Este repositório foi criado para registrar toda a minha evolução, laboratórios práticos e anotações durante o programa **Mulher Digital** da JA Brasil. O foco principal é a formação em Cibersegurança combinada com o desenvolvimento profissional.
 ## 📫 Conecte-se Comigo
 Gostou do meu progresso na área de tecnologia? Vamos conversar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tayná-cardoso-099b0215b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayna-cardoso-099b0215b)
 
 ## 🏆 Certificações Conquistadas
 * **Introdução à Cibersegurança** — Emitido pela Cisco (Parceria JA Brasil)
