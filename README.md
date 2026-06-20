@@ -1,9 +1,10 @@
 # 💻 Jornada Mulher Digital — Junior Achievement
 
-![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=shield)
-![Program](https://img.shields.io/badge/Program-JA%20Brasil-blue?style=for-the-badge)
-
 Este repositório foi criado para registrar toda a minha evolução, laboratórios práticos e anotações durante o programa **Mulher Digital** da JA Brasil. O foco principal é a formação em Cibersegurança combinada com o desenvolvimento profissional.
+## 📫 Conecte-se Comigo
+Gostou do meu progresso na área de tecnologia? Vamos conversar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tayná-cardoso-099b0215b)
 
 ## 🏆 Certificações Conquistadas
 * **Introdução à Cibersegurança** — Emitido pela Cisco (Parceria JA Brasil)
@@ -28,4 +29,5 @@ Este repositório foi criado para registrar toda a minha evolução, laboratóri
 | 📁 Soft Skills & Carreira | [Acessar pasta](./) | 📅 Em breve |
 
 ---
+
 💡 *Desenvolvido por Tayna Cardoso durante a transição de carreira para a área de Tecnologia.*
