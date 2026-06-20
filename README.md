@@ -1,2 +1,8 @@
-# mulher-digital-learning
-Repositório focado no desenvolvimento de Hard Skills em Cibersegurança e Soft Skills para o mercado tech, através do programa Mulher Digital da Junior Achievement.
+# 💻 Jornada Mulher Digital - Junior Achievement
+
+Este repositório foi criado para registrar todo o meu aprendizado, exercícios e evolução durante o programa **Mulher Digital**, promovido pela JA Brasil, com foco em **Cibersegurança**.
+
+## 🛠️ Hard Skills em Desenvolvimento
+
+## 🧠 Soft Skills & Desenvolvimento Profissional
+
