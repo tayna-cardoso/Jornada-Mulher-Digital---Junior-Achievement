@@ -1,8 +1,29 @@
-# 💻 Jornada Mulher Digital - Junior Achievement
+# 💻 Jornada Mulher Digital — Junior Achievement
 
-Este repositório foi criado para registrar todo o meu aprendizado, exercícios e evolução durante o programa **Mulher Digital**, promovido pela JA Brasil, com foco em **Cibersegurança**.
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=shield)
+![Program](https://img.shields.io/badge/Program-JA%20Brasil-blue?style=for-the-badge)
 
-## 🛠️ Hard Skills em Desenvolvimento
+Este repositório foi criado para registrar toda a minha evolução, laboratórios práticos e anotações durante o programa **Mulher Digital** da JA Brasil. O foco principal é a formação em Cibersegurança combinada com o desenvolvimento profissional.
 
-## 🧠 Soft Skills & Desenvolvimento Profissional
+---
 
+## 🎯 Desenvolvimento de Habilidades
+
+### 🛠️ Hard Skills (Técnicas)
+
+
+### 🧠 Soft Skills (Comportamentais)
+
+
+---
+
+## 📚 Organização do Aprendizado
+
+| Conteúdo / Módulo | Link do Código | Status |
+| :--- | :---: | :---: |
+| 📁 Fundamentos e Lógica | [Acessar pasta](./) | 🟢 Pronto |
+| 📁 Laboratórios de Redes | [Acessar pasta](./) | 🟡 Estudando |
+| 📁 Soft Skills & Carreira | [Acessar pasta](./) | 📅 Em breve |
+
+---
+💡 *Desenvolvido por Tayna Cardoso durante a transição de carreira para a área de Tecnologia.*
