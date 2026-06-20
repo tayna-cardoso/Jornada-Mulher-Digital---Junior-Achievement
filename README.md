@@ -3,11 +3,10 @@
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=shield)
 ![Program](https://img.shields.io/badge/Program-JA%20Brasil-blue?style=for-the-badge)
 
-## 🏆 Certificações Conquistadas
-* **Introdução à Cibersegurança** — Emitido pela Cisco (Parceria JA Brasil)
-* 
 Este repositório foi criado para registrar toda a minha evolução, laboratórios práticos e anotações durante o programa **Mulher Digital** da JA Brasil. O foco principal é a formação em Cibersegurança combinada com o desenvolvimento profissional.
 
+## 🏆 Certificações Conquistadas
+* **Introdução à Cibersegurança** — Emitido pela Cisco (Parceria JA Brasil)
 ---
 
 ## 🎯 Desenvolvimento de Habilidades
