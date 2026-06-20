@@ -2,7 +2,7 @@
 
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=shield)
 ![Program](https://img.shields.io/badge/Program-JA%20Brasil-blue?style=for-the-badge)
-
+![Programa](https://img.shields.io/badge/Program-Mulher%20Digital-blue?style=for-the-badge)
 Este repositório foi criado para registrar toda a minha evolução, laboratórios práticos e anotações durante o programa **Mulher Digital** da JA Brasil. O foco principal é a formação em Cibersegurança combinada com o desenvolvimento profissional.
 
 ---
